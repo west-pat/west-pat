@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @west-pat
-- 👀 I’m interested in Docker, Node-red and Home automation
+- 👀 I’m interested in Docker, Kubernetes, Node-red and Home automation
 - 🌱 I’m currently learning how to create nodes
 - 💞️ I’m looking to collaborate on Dahua API
 
